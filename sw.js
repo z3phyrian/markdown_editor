@@ -1,6 +1,7 @@
 const CACHE_NAME = 'linh-editor-v1';
 const urlsToCache = [
-    './editor.html',
+    './',
+    './index.html',
     'https://uicdn.toast.com/editor/latest/toastui-editor.min.css',
     'https://uicdn.toast.com/editor/latest/theme/toastui-editor-dark.min.css',
     'https://uicdn.toast.com/editor-plugin-code-syntax-highlight/latest/toastui-editor-plugin-code-syntax-highlight.min.css',
